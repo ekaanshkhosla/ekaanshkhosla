@@ -6,7 +6,7 @@
 <h2>Hi 👋, I'm Shubham Krishna</h2>
 
 <!--Intro Section-->
-<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="30%" align="right">
+<img src="https://i.ibb.co/Mkjg2y8/122.gif" width="30%" align="right">
 
 🎓 **AI/ML Engineer at [Zendesk](https://www.zendesk.com/)**.<br>
 💡 Passionate about **developing and deploying intelligent systems** that transform ideas into impactful solutions.<br>
