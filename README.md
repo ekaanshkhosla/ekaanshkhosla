@@ -76,7 +76,7 @@ Here’s a snapshot of the major technologies I’ve worked with in the past:
 
 ## Let's Connect :handshake:
 
-<a href="https://www.linkedin.com/in/shubham-krishna-998922108/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>|<a href="https://medium.com/@shubhamkrishna.ism"><img src="https://github.com/Medium/medium-logos/blob/master/01_Logo/01_Black/SVG/Medium-Logo-Black-RGB.svg" width="40"></a>|<a href="https://twitter.com/KrishnaaShubham"><img src="https://raw.githubusercontent.com/johan/svg-cleanups/master/logos/twitter.svg" width="40"></a>
+<a href="https://www.linkedin.com/in/ekaanshkhosla/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a>
 |--|--|--|
 
 
