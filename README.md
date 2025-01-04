@@ -58,12 +58,15 @@ Here’s a snapshot of the major technologies I’ve worked with in the past:
 
 | **Category**                 |  **Technologies**                                                                 |
 |------------------------------|---------------------------------------------------------------------------------|
-| **Programming Languages**     | Python, C++, Bash                                                                |
-| **Machine Learning Frameworks**| PyTorch, TensorFlow, Keras, Hugging Face (Transformers, Diffusers, Gradio), LangChain |
-| **Data Analysis & Visualization Libraries** | Scikit-Learn, Pandas, NumPy, Matplotlib, Seaborn, Weights & Biases              |
-| **Cloud Platforms**           | Google Cloud Platform (GCP), Microsoft Azure                                     |
-| **Deployment & DevOps Tools** | Docker, GitHub Actions, Terraform, FastAPI, Grafana                             |
-| **Development Tools**         | Git, Ubuntu, Jupyter Notebook, Visual Studio Code                               |
+| **Programming Languages**     | Python, SQL, Java, C++, C, HTML, CSS                                                                |
+| **AI/Machine Learning**| PyTorch, PyTorch Lightning, TensorFlow, Keras, LLMs, Generative AI, Computer Vision, NLP, RAG,
+LangChain, LangGraph, LangSmith, Hugging Face, Ollama |
+| **Data Science & Analytics** | Pandas, NumPy, Scikit-learn, XGBoost, Random Forest, AdaBoost, SciPy, Statsmodels, Plotly,
+Matplotlib, Feature Engineering, Exploratory Data Analysis, Hypothesis Testing, ETL, Power BI, Excel, Qlik.              |
+| **MLOps & Deployment Tools**           | Git, GitHub, MLflow, Docker, Kubernetes, AWS, Azure, GCP, FastAPI, Flask, Streamlit,
+Databricks, PySpark, Apache Spark, Hadoop.                                     |
+| **Databases** | PostgreSQL, MongoDB, MS SQL                             |
+| **Development Tools**         | Anaconda, Visual Studio Code, Jupyter Notebooks, HPC                               |
 
 <br>
 
