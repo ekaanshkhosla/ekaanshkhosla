@@ -8,10 +8,9 @@
 <!--Intro Section-->
 <img src="https://i.ibb.co/Mkjg2y8/122.gif" width="30%" align="right">
 
-🎓 **AI/ML Engineer at [Zendesk](https://www.zendesk.com/)**.<br>
-💡 Passionate about **developing and deploying intelligent systems** that transform ideas into impactful solutions.<br>
-📖 Currently exploring **Large Language Models** and their application in **enhancing customer experience and automating support workflows**.<br>
-🌟 Read more about my work on [Website](https://shub-kris.github.io/) <br><br>
+I am a Machine Learning Engineer with over five years of experience in AI, machine learning, and data science, specializing in innovative solutions like Retrieval-Augmented Generation (RAG) pipelines, computer vision systems, NLP solutions, diffusion models, and generative AI applications.
+
+Skilled in deploying scalable solutions on cloud platforms like AWS, leveraging Docker for containerization, and building robust APIs with FastAPI, I excel at transforming complex AI technologies into impactful real-world applications. Driven by a passion for advancing AI, I actively engage in cutting-edge research and practical implementation.
 
 ## Skill Set :muscle:
 
