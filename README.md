@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://github.com/ekaanshkhosla/ekaanshkhosla/blob/main/skills.png" width="1380px" height="180px"></p>
+<p align="center"><img src="https://github.com/ekaanshkhosla/ekaanshkhosla/blob/main/skills.png" width="2000px" height="400px"></p>
 
 <h2>Hi 👋, I'm Shubham Krishna</h2>
 
