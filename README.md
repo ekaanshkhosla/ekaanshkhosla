@@ -81,8 +81,6 @@ Here’s a snapshot of the major technologies I’ve worked with in the past:
 
 
 <!-- Profile Views -->
-
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=ekaanshkhosla&label=Profile%20views&color=0e75b6&style=flat" alt="ekaanshkhosla" height=21px/>
 </p>
-
