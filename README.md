@@ -6,8 +6,7 @@
 
 <img src="https://i.ibb.co/Mkjg2y8/122.gif" width="40%" align="right">
 
-🌟 About Me
-I am a Machine Learning Engineer with over 5 years of experience in AI, machine learning, and data science. My expertise lies in designing and implementing cutting-edge solutions, including:
+🌟 I am a Machine Learning Engineer with over 5 years of experience in AI, machine learning, and data science. My expertise lies in designing and implementing cutting-edge solutions, including:
 
 - 🔍 **Retrieval-Augmented Generation (RAG) Pipelines**
 - 🖼️ **Computer Vision Systems**
