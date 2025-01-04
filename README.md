@@ -11,6 +11,7 @@ I am a Machine Learning Engineer with **5+ years of experience** in **AI, machin
 - 🔍 **Retrieval-Augmented Generation (RAG) pipelines**  
 - 🖼️ **Computer Vision systems** (e.g., image classifiers)  
 - 🧠 **Natural Language Processing (NLP) solutions**  
+- 📊 **Data Science solutions** (e.g., ETL pipelines, feature engineering, and predictive modeling)  
 - 🌌 **Diffusion models** and **Generative AI applications**
 
 💻 I am skilled in:  
