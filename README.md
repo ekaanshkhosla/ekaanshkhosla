@@ -6,7 +6,7 @@
 <h2>Hi 👋, I'm Shubham Krishna</h2>
 
 <!--Intro Section-->
-<img src="[https://gpvc.arturio.dev/Proloycb](https://camo.githubusercontent.com/974c93adff3488ab58f5cd40293b6056b91dd40b9094fbfd81fe861fc93f2095/68747470733a2f2f692e6962622e636f2f4d6b6a673279382f3132322e676966)" width="30%" align="right">
+<img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" width="30%" align="right">
 
 🎓 **AI/ML Engineer at [Zendesk](https://www.zendesk.com/)**.<br>
 💡 Passionate about **developing and deploying intelligent systems** that transform ideas into impactful solutions.<br>
