@@ -4,7 +4,7 @@
 
 <h2>Hi 👋, I'm Ekaansh Khosla</h2>
 
-<img src="https://i.ibb.co/Mkjg2y8/122.gif" width="40%" align="right">
+<img src="https://i.ibb.co/Mkjg2y8/122.gif" width="50%" align="right">
 
 🌟 **About Me**  
 I am a Machine Learning Engineer with **5+ years of experience** in **AI, machine learning, and data science**, specializing in innovative solutions like:  
