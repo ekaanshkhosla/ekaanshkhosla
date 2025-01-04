@@ -56,17 +56,14 @@ Here’s a snapshot of the major technologies I’ve worked with in the past:
 - Jupyter Notebook
 - Visual Studio Code -->
 
-| **Category**                 |  **Technologies**                                                                 |
+| **Category**                 |  **Technologies**                                                               |
 |------------------------------|---------------------------------------------------------------------------------|
-| **Programming Languages**     | Python, SQL, Java, C++, C, HTML, CSS                                                                |
-| **AI/Machine Learning**| PyTorch, PyTorch Lightning, TensorFlow, Keras, LLMs, Generative AI, Computer Vision, NLP, RAG,
-LangChain, LangGraph, LangSmith, Hugging Face, Ollama |
-| **Data Science & Analytics** | Pandas, NumPy, Scikit-learn, XGBoost, Random Forest, AdaBoost, SciPy, Statsmodels, Plotly,
-Matplotlib, Feature Engineering, Exploratory Data Analysis, Hypothesis Testing, ETL, Power BI, Excel, Qlik.              |
-| **MLOps & Deployment Tools**           | Git, GitHub, MLflow, Docker, Kubernetes, AWS, Azure, GCP, FastAPI, Flask, Streamlit,
-Databricks, PySpark, Apache Spark, Hadoop.                                     |
-| **Databases** | PostgreSQL, MongoDB, MS SQL                             |
-| **Development Tools**         | Anaconda, Visual Studio Code, Jupyter Notebooks, HPC                               |
+| **Programming Languages**  | Python, SQL, Java, C++, C, HTML, CSS  |
+| **AI/Machine Learning**| PyTorch, PyTorch Lightning, TensorFlow, Keras, LLMs, Generative AI, Computer Vision, NLP, RAG, LangChain, LangGraph, LangSmith, Hugging Face, Ollama |
+| **Data Science & Analytics** | Pandas, NumPy, Scikit-learn, XGBoost, Random Forest, AdaBoost, SciPy, Statsmodels, Plotly, Matplotlib, Feature Engineering, Exploratory Data Analysis, Hypothesis Testing, ETL, Power BI, Excel, Qlik.  |
+| **MLOps & Deployment Tools** | Git, GitHub, MLflow, Docker, Kubernetes, AWS, Azure, GCP, FastAPI, Flask, Streamlit, Databricks, PySpark, Apache Spark, Hadoop.  |
+| **Databases** | PostgreSQL, MongoDB, MS SQL |
+| **Development Tools** | Anaconda, Visual Studio Code, Jupyter Notebooks, HPC  |
 
 <br>
 
