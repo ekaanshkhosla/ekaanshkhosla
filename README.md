@@ -14,7 +14,7 @@ I am a Machine Learning Engineer with **5+ years of experience** in **AI, machin
 - 📊 **Data Science solutions** (e.g., ETL pipelines, feature engineering, and predictive modeling)  
 - 🌌 **Diffusion models** and **Generative AI applications**
 
-💻 I am skilled in:  
+💻 I am also skilled in:  
 - ☁️ **Cloud platforms** like AWS for scalable deployments  
 - 🐳 **Docker** for efficient containerization  
 - ⚡ **FastAPI** for building robust APIs  
