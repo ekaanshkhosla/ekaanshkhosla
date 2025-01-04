@@ -6,13 +6,14 @@
 
 <img src="https://i.ibb.co/Mkjg2y8/122.gif" width="40%" align="right">
 
-🌟 **About Me**  
-I am a Machine Learning Engineer with **5+ years of experience** in **AI, machine learning, and data science**, specializing in innovative solutions like:  
-- 🔍 **Retrieval-Augmented Generation (RAG) pipelines**  
-- 🖼️ **Computer Vision systems** 
-- 🧠 **Natural Language Processing (NLP) solutions**  
-- 📊 **Data Science solutions**
-- 🌌 **Diffusion models** and **Generative AI applications**
+🌟 About Me
+I am a Machine Learning Engineer with over 5 years of experience in AI, machine learning, and data science. My expertise lies in designing and implementing cutting-edge solutions, including:
+
+- 🔍 **Retrieval-Augmented Generation (RAG) Pipelines**
+- 🖼️ **Computer Vision Systems**
+- 🧠 **Natural Language Processing (NLP) Solutions**
+- 📊 **Data Science Applications**
+- 🌌 **Diffusion Models and Generative AI Innovations**
 
 💻 I am also skilled in:  
 - ☁️ **Cloud platforms** like AWS for scalable deployments  
