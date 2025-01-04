@@ -1,5 +1,7 @@
 
-<p align="center"><img src="https://github.com/ekaanshkhosla/ekaanshkhosla/blob/main/skills.png" width="2000px" height="400px"></p>
+<div style="text-align: center;">
+    <img src="https://github.com/ekaanshkhosla/ekaanshkhosla/blob/main/skills.png" style="width: 100%; max-width: 2000px; height: auto;" alt="Skills Overview">
+</div>
 
 <h2>Hi 👋, I'm Shubham Krishna</h2>
 
