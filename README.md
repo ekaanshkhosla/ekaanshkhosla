@@ -3,7 +3,7 @@
     <img src="https://github.com/ekaanshkhosla/ekaanshkhosla/blob/main/skills.png" style="width: 100%; max-width: 2000px; height: auto;" alt="Skills Overview">
 </div>
 
-<h2>Hi 👋, I'm Shubham Krishna</h2>
+<h2>Hi 👋, I'm Ekaansh Khosla</h2>
 
 <!--Intro Section-->
 <img src="https://i.ibb.co/Mkjg2y8/122.gif" width="30%" align="right">
