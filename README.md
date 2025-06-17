@@ -25,14 +25,16 @@ I'm a Machine Learning Engineer and Researcher with experience in AI, machine le
 
 Here’s a snapshot of the major technologies I’ve worked with:
 
-| **Category**                 |  **Technologies**                                                               |
-|------------------------------|---------------------------------------------------------------------------------|
-| **Programming Languages**    | Python, SQL, Java, C++, C, HTML, CSS                                            |
-| **AI/Machine Learning**      | PyTorch, PyTorch Lightning, TensorFlow, Keras, LLMs, Generative AI, Computer Vision, NLP, RAG, LangChain, LangGraph, LangSmith, Hugging Face, Ollama |
-| **Data Science & Analytics** | Pandas, NumPy, Scikit-learn, XGBoost, Random Forest, AdaBoost, SciPy, Statsmodels, Plotly, Matplotlib, Feature Engineering, Exploratory Data Analysis, Hypothesis Testing, ETL, Power BI, Excel, Qlik |
-| **MLOps & Deployment Tools** | Git, GitHub, MLflow, Docker, Kubernetes, CI/CD, AWS, Azure, GCP, FastAPI, Flask, Streamlit, Databricks, PySpark, Apache Spark, Hadoop |
-| **Databases**                | PostgreSQL, MongoDB, MS SQL                                                    |
-| **Development Tools**        | Anaconda, Visual Studio Code, Jupyter Notebooks, HPC                                |
+
+| **Category**              | **Technologies**                                                                                                                                         |
+|---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Prog. Lang.**           | Python, SQL, R, Java, C++, HTML, CSS, Javascript                                                                                                                   |
+| **AI/ML/DL/GenAI**        | PyTorch, PyTorch Lightning, TensorFlow, Keras, RAG, LLM fine-tuning, LangChain, LangGraph, Hugging Face, Computer Vision, NLP, Stable Diffusion, Dreambooth     |
+| **Data Science & Analytics** | Pandas, NumPy, Scikit-learn, XGBoost, Random Forest, Plotly, Matplotlib, Feature Engineering, Exploratory Data Analysis, Hypothesis Testing, ETL, Power BI, Excel, Qlik |
+| **MLOps Tools**           | Git, GitHub, MLflow, Docker, CI/CD, REST API, FastAPI, Flask, AWS, Azure, GCP                                                     |
+| **Big Data**              | Databricks, Apache Spark, PySpark, Data Warehousing                                                                                                           |
+| **Databases**             | PostgreSQL, MS SQL, NoSQL, MongoDB                                                                                                                              |
+
 
 ## Let's Connect :handshake:
 
