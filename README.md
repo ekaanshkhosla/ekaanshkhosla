@@ -29,9 +29,9 @@ Here’s a snapshot of the major technologies I’ve worked with:
 | **Category**              | **Technologies**                                                                                                                                         |
 |---------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Prog. Lang.**           | Python, SQL, R, Java, C++, HTML, CSS, Javascript                                                                                                                   |
+| **MLOps Tools**           | Git, GitHub, MLflow, Docker, CI/CD, REST API, FastAPI, Flask, AWS, Azure, GCP                                                     |
 | **AI/ML/DL/GenAI**        | PyTorch, PyTorch Lightning, TensorFlow, Keras, RAG, LLM fine-tuning, LangChain, LangGraph, Hugging Face, Computer Vision, NLP, Stable Diffusion, Dreambooth     |
 | **Data Science & Analytics** | Pandas, NumPy, Scikit-learn, XGBoost, Random Forest, Plotly, Matplotlib, Feature Engineering, Exploratory Data Analysis, Hypothesis Testing, ETL, Power BI, Excel, Qlik |
-| **MLOps Tools**           | Git, GitHub, MLflow, Docker, CI/CD, REST API, FastAPI, Flask, AWS, Azure, GCP                                                     |
 | **Big Data**              | Databricks, Apache Spark, PySpark, Data Warehousing                                                                                                           |
 | **Databases**             | PostgreSQL, MS SQL, NoSQL, MongoDB                                                                                                                              |
 
