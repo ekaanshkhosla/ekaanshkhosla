@@ -6,7 +6,7 @@
 
 <img src="https://i.ibb.co/Mkjg2y8/122.gif" width="40%" align="right">
 
-I'm a Machine Learning Engineer and Researcher with experience in AI, machine learning, and data science. My expertise lies in designing and implementing cutting-edge solutions, including:
+Hi, I’m Ekaansh. I’ve completed my Master’s in Data Science and have hands-on experience in AI, machine learning, and data science. My expertise lies in designing and implementing cutting-edge solutions, including:
 
 - 🔍 **Retrieval-Augmented Generation (RAG) Pipelines**
 - 🖼️ **Computer Vision Systems**
