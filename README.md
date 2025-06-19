@@ -12,7 +12,7 @@ Hi, I’m Ekaansh. I’ve completed my Master’s in Data Science and have hands
 - 🖼️ **Computer Vision Systems**
 - 🧠 **Natural Language Processing (NLP) Solutions**
 - 📊 **Data Science Applications**
-- 🌌 **Diffusion Models and Generative AI Innovations**
+- 🌌 **Generative AI Innovations**
 
 💻 I am also skilled in:  
 - ☁️ **Cloud platforms** like AWS for scalable deployments  
