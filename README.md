@@ -24,7 +24,7 @@ Hi, I’m Ekaansh. I’ve completed my Master’s in Data Science and have hands
 ## Let's Connect :handshake:
 
 <a href="https://www.linkedin.com/in/ekaanshkhosla/" target="_blank">
-  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40" style="margin-right: 10px;">
+  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40" style="margin-right: 100px;">
 </a>
 <a href="https://www.xing.com/profile/Ekaansh_Khosla/" target="_blank">
   <img src="https://cdn0.iconfinder.com/data/icons/brands-flat-2/216/xing-social-network-brand-logo-1024.png" width="40">
